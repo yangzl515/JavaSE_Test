@@ -12,5 +12,6 @@ public class PersonTest {
         per.setAge(12);
         per.setGender("lan");
         per.work();
+        //哈哈哈
     }
 }
